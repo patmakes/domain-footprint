@@ -1,0 +1,14 @@
+beautifulsoup4==4.12.3
+cryptography==41.0.7
+dnspython==2.6.1
+IPy==1.1
+IPy==1.01
+numpy==1.26.4
+pandas==2.2.1
+pyOpenSSL==24.0.0
+python-dotenv==1.0.1
+python_whois==0.8.0
+Requests==2.31.0
+shodan==1.31.0
+sqlite_utils==3.36
+tqdm==4.66.1
