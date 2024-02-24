@@ -2,8 +2,6 @@
 
 #### Tool for the enumeration of DNS records, WhoIs Records, IPs, SSL Certificate, and subdomains associated with a public-facing domain
 
-##### Results are written to a local sqlite db
-
 ##### *- please note that a shodan API key and Residential Proxy Subscription are required for full functionality*
 
 ## Installation
